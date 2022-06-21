@@ -1,0 +1,154 @@
+AVISO DE PRIVACIDADE
+
+Conceitos:
+Controlador: pessoa natural ou jurídica, de direito público ou privado, a quem compete as decisões referentes
+ao tratamento de dados pessoais.
+Titular: pessoa natural a quem se referem os dados pessoais que são objeto de tratamento.
+Dados pessoais: informações relacionadas a pessoa natural identificada ou identificável.
+Dados pessoais sensíveis: dados de origem racial ou étnica, convicções religiosas, opiniões políticas, filiação a
+candidatos ou a organizações de caráter religioso, filosófico ou político, referentes à saúde ou à vida sexual, dado
+genético ou biométrico vinculados a pessoa natural.
+Anonimização: utilização de meios técnicos razoáveis e disponíveis no momento do tratamento, por meio dos
+quais um dado perde a possibilidade de associação, direta ou indireta, a um indivíduo.
+Tratamento de dados: toda operação realizada com dados pessoais, como coleta, produção, recepção,
+classificação, utilização, acesso, reprodução, transmissão, distribuição, processamento, arquivamento,
+armazenamento, eliminação, avaliação ou controle da informação, modificação, comunicação, transferência,
+difusão ou extração.
+Bloqueio: suspensão temporária de qualquer operação de tratamento, mediante guarda do dado pessoal ou do
+banco de dados.
+Eliminação: exclusão de dado ou de conjunto de dados armazenados em banco de dados, independentemente
+de procedimento empregado.
+Base legal: hipóteses em que a lei permite o tratamento dos dados pessoais.
+1. Controlador do Tratamento dos Dados
+1.1. CAIXA BENEFICENTE DOS MILITARES DO CEARÁ, com sede Avenida Domingos Olímpio, 1589, Farias Brito,
+Fortaleza, Brasil, CEP 60.191-070 e CNPJ 07.074.792/0001-98 (“Controlador” ou “Cabemce”), enquanto
+Controlador, irá tratar seus dados pessoais fornecidos através do aplicativo “CABEMCE” disponibilizado na
+playstore, em conformidade com as legislações vigentes a fim de garantir a privacidade e proteção dos dados,
+especialmente com a Lei 13.709/2018, Lei Geral de Proteção de Dados.
+2. Direitos do Titular de Dados
+2.1. Segundo o Capítulo III da Lei 13.709/18, os diretos do titular são:
+a) Confirmar, acessar e solicitar cópia de seus dados que estão na posse da empresa, inclusive quanto às
+informações relacionadas ao uso compartilhado dos dados;
+b) Solicitar retificação, anonimização, bloqueio, portabilidade e eliminação dos dados desnecessários, excessivos
+ou tratados em desconformidade;
+c) Limitar o tratamento de dados;
+d) Opor-se ao tratamento;
+e) Solicitar informação quanto às hipóteses de consentimento, sua revogação e os efeitos decorrentes;
+
+AMANDA PÍCCOLI GOUVEIA PIMENTEL
+Bacharel em Direito, Especialista em Direito Digital e LGPD.
+Membro da Associação Nacional dos Profissionais de Proteção de Dados.
+
+f) Revogar seu consentimento, no limite do estabelecido pela legislação aplicável;
+g) Solicitar revisão das decisões automatizadas.
+2.2. Para exercer seus direitos você pode entrar em contato através do e-mail cabemce@cabemce.com.br ou ir
+até a sede localizada em Avenida Domingos Olímpio, 1589, Avenida Domingos Olímpio, 1589, CEP 60.191-070,
+Farias Brito, Fortaleza, Brasil.
+2.3. Lembramos que é seu direito apresentar uma reclamação junto à Autoridade Nacional de Proteção de Dados
+Pessoais (ANPD), por meio dos canais de atendimento e disponibilizados no website
+https://www.gov.br/anpd/pt-br.
+3. Dados Pessoais, Finalidade e Tratamento
+3.1. O Controlador irá tratar os dados pessoasfornecidos por você através do aplicativo CABEMCE, manualmente
+e/ou com a ajuda de meios computadorizados e/ou automatizados, com finalidades legítimas, específicas e
+explicitas e somente na presença de uma base legal específica prevista na Lei 13.709/18.
+3.2. Como regra, a CABEMCE coleta e trata o mínimo de dados pessoais, sendo aqueles os necessários à válida
+identificação e associação do titular perante a associação.
+3.3. Os dados pessoais coletados por nós através do aplicativo serão:
+a) Nome completo;
+b) CPF;
+c) E-mail;
+d) Data de nascimento;
+e) Endereço;
+f) Telefone;
+g) Biometria facial.
+3.4. Nós utilizaremos seus dados coletados a fim de proporcionar uma experiência interativa e agradável.
+Especificamente, serão utilizados para:
+a) Cadastro no aplicativo;
+b) Atualização dos dados do associado na base de dados;
+c) Validação de identidade.
+4. Base Legal
+4.1. Os dados coletados pela CABEMCE terão como base legal:
+a) Consentimento, fornecido por você;
+b) Execução de contrato ou de procedimentos preliminares relacionados a contrato do qual você seja parte e a
+seu requerimento;
+c) Legítimo interesse da CABEMCE.
+5. Armazenamento de Dados Pessoais
+5.1. Seus dados são armazenados em dois ambientes, externamente no banco de dados do Firebase (Google),
+servidor southamerica-east1 com sede em São Paulo e no nosso banco de dados interno.
+
+AMANDA PÍCCOLI GOUVEIA PIMENTEL
+Bacharel em Direito, Especialista em Direito Digital e LGPD.
+Membro da Associação Nacional dos Profissionais de Proteção de Dados.
+5.2. Os dados pessoais tratados para as finalidades informadas no tópico 3.3 serão mantidos em conformidade
+com os princípios de finalidade, adequação e necessidade, e em todo caso até os objetivos do tratamento terem
+sido alcançados.
+5.3. Seus dados pessoais serão tratados enquanto for mantida sua relação junto à CABEMCE e serão também
+mantidos pelos prazos prescricionais e decadenciais aplicáveis. Podendo, ainda, ser mantidos por prazos
+superiores para atenção às obrigações regulatórias ou para defesa em processos judiciais, administrativos ou
+arbitrais.
+6. Propósitos de Marketing
+6.1. Os dados coletados através do aplicativo CABEMCE não serão utilizados para envio de quaisquer
+propagandas de marketing.
+7. Destinatários de Dados Pessoais
+7.1. Seus dados pessoais podem ser acessados por funcionários e colaboradores da CABEMCE, não sendo
+compartilhados com terceiros ou empresas terceiras.
+8. Medidas de segurança
+8.1. A CABEMCE utiliza soluções e medidas técnicas de segurança apropriadas na atuação contra os riscos de
+perda acidental ou ilegal, alteração, divulgação ou acesso não autorizado, visando preservar a inviolabilidade dos
+dados compatíveis com os padrões internacionais e com as boas práticas do setor;
+8.2. As tecnologias utilizadas para garantir a segurança nas máquinas são antivírus e no servidor interno
+possuímos uma camada de firewall e uma segunda camada de VPN. Externamente, os seus dados são mantidos
+no Google Firebase, sendo:
+a) Google Firebase é uma tecnologia em nuvem, para caso haja algum incidente há a garantia de segurança pelas
+regras e sistemas de proteção do Google.
+a) Para o Firebase há uma camada de regras de segurança onde somente o usuário pode acessar seus dados. As
+regras de segurança fazem a correspondência de um padrão de caminhos do banco de dados e, em seguida,
+aplicam as condições personalizadas para permitir o acesso aos dados nesse caminho. Todas as regras nos
+produtos do firebase têm um componente de correspondência de caminho e uma declaração condicional que
+permite acesso de leitura ou gravação.
+
+AMANDA PÍCCOLI GOUVEIA PIMENTEL
+Bacharel em Direito, Especialista em Direito Digital e LGPD.
+Membro da Associação Nacional dos Profissionais de Proteção de Dados.
+
+Termos de Uso
+
+Introdução
+Estes Termos de Uso constituem um acordo legal entre o usuário e a CABEMCE e regulamentam o uso do
+aplicativo e de seu conteúdo. Caso você não concorde com os mesmos, não deverá acessá-los.
+Links a sites de terceiros
+O aplicativo da CABEMCE contém atalho para o ambiente de serviços online do associado para retirada de
+declaração de valores pagos à Hapvida. O local referenciado está sob o controle da CABEMCE, e, portanto, se
+responsabiliza pelo conteúdo destes, incluindo "links" quebrados ou quaisquer mudanças de conteúdo ou
+atualizações.
+Uso do Aplicativo
+Como condição de uso do aplicativo CABEMCE, o usuário compromete-se a usá-los conforme a lei, os bons
+costumes, a ordem pública, a moral e de forma que não cause dano, inutilização ou que sobrecarregue a sua
+forma normal.
+Não usar qualquer dispositivo, software ou outro meio que possa interferir nas atividades e operações do
+aplicativo CABEMCE;
+Conteúdo do Aplicativo
+O conteúdo do aplicativo se destina a oferecer aos usuários um painel institucional, informativo e de
+relacionamento com a CABEMCE. Assim como acesso para cadastro no aplicativo, atualização cadastral,
+download de boletos dos planos de saúde Hapvida ou Unimed, redirecionamento ao ambiente de serviços online
+do associado para retirada de declaração de valores pagos à Hapvida.
+Fica reservado à CABEMCE o direito de modificar ou eliminar, a qualquer momento e sem aviso prévio, a
+configuração e apresentação do aplicativo, conteúdo, termos de uso, avisos, regulamentos e instruções. Todas
+as informações são disponibilizadas de boa-fé pela CABEMCE em seu aplicativo, porém, podem incluir
+incorreções ou erros tipográficos. As mudanças são realizadas periodicamente com relação a estas informações.
+Direitos autorais e Propriedade Intelectual
+Todo o conteúdo apresentado do aplicativo, incluindo, mas não limitado a textos, fotografias, imagens,
+animações, sons, ilustrações, nomes, marcas e logomarcas são de propriedade da CABEMCE, sendo, também,
+protegidos por lei de direito autoral e propriedade intelectual.
+Exceto se explicitamente permitido em licença por escrito da CABEMCE, nenhuma parte deste aplicativo ou de
+seu conteúdo pode ser copiada ou retransmitida por qualquer meio. Em caso de utilizações indevidas, o infrator
+estará sujeito às punições legais e a multas e indenizações, à CABEMCE por qualquer perda, despesa, custo ou
+prejuízo causado pela inobservância dos Termos de Uso do Aplicativo e de seu conteúdo.
+Acesso a área restrita
+O usuário é responsável por:
+a) Garantir a veracidade das informações fornecidas para a CABEMCE;
+b) Não acessar áreas restritas do aplicativo em nome de terceiros sem prévia e devida autorização deles;
+
+AMANDA PÍCCOLI GOUVEIA PIMENTEL
+Bacharel em Direito, Especialista em Direito Digital e LGPD.
+Membro da Associação Nacional dos Profissionais de Proteção de Dados.
